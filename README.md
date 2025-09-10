@@ -104,9 +104,9 @@ ID: 101, Name: Alice, Department: CSE, Grade: 8.5
 
 ## 👤 Author
 
-**Rupam Ghosh**
+**Provat Malo**
 
-🔗 GitHub https://github.com/codebyrupam
+🔗 GitHub https://github.com/developer-provat
 
 ---
 
