@@ -1,4 +1,4 @@
-# 💻 Student Information System (Java – Intermediate Project)
+# 💻 STUDENT INFORMATION SYSTEM ( JAVA - Intermediate Project )
 
 
 
